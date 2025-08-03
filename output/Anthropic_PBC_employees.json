@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Alex Albert",
+    "current_role": "Developer Relations/Product",
+    "department": "Product/Developer Experience",
+    "tenure_years": 1,
+    "networking_score": 95,
+    "relevance": {
+      "shared_background": [
+        "University background",
+        "Tech industry experience"
+      ],
+      "common_interests": [
+        "AI/Developer tools",
+        "Education/helping developers",
+        "Product evangelism"
+      ],
+      "mutual_connections": [
+        "University of Washington alumni network"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message referencing his work on Claude developer education",
+      "conversation_starters": [
+        "Claude API adoption strategies",
+        "Developer community building",
+        "Technical content creation"
+      ],
+      "value_proposition": "Interest in contributing to developer education and community growth",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "8.3K+ LinkedIn followers - high influence",
+      "Active in developer community building",
+      "University of Washington background",
+      "Strong focus on helping developers build with Claude",
+      "Regular poster about AI/developer tools"
+    ]
+  },
+  {
+    "name": "Cat de Jong",
+    "current_role": "Head of Applied AI",
+    "department": "Applied AI/Product",
+    "tenure_years": 0.5,
+    "networking_score": 90,
+    "relevance": {
+      "shared_background": [
+        "Cornell engineering background",
+        "Technical leadership experience"
+      ],
+      "common_interests": [
+        "AI applications",
+        "Enterprise solutions",
+        "Product development"
+      ],
+      "mutual_connections": [
+        "Tech industry leaders",
+        "Data/AI community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message referencing her transition to Anthropic and Applied AI focus",
+      "conversation_starters": [
+        "Enterprise AI adoption",
+        "Applied AI product strategy",
+        "Technical leadership in AI"
+      ],
+      "value_proposition": "Interest in bridging technical capabilities with developer needs",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "New to Anthropic (Oct 2024) - likely building team",
+      "Strong technical background (Cornell EE)",
+      "Enterprise experience at Snowflake",
+      "Leadership in technical teams",
+      "2.4K+ followers with good engagement"
+    ]
+  },
+  {
+    "name": "Drew Bent",
+    "current_role": "Education & AI",
+    "department": "Education/Developer Relations",
+    "tenure_years": 1,
+    "networking_score": 88,
+    "relevance": {
+      "shared_background": [
+        "MIT background",
+        "Educational technology",
+        "AI applications"
+      ],
+      "common_interests": [
+        "AI education",
+        "Developer tools",
+        "Community building"
+      ],
+      "mutual_connections": [
+        "MIT alumni network",
+        "Education technology community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about his educational AI initiatives and Schoolhouse background",
+      "conversation_starters": [
+        "AI fluency courses",
+        "Developer education strategies",
+        "Community-driven learning"
+      ],
+      "value_proposition": "Shared passion for making AI accessible to developers",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "16.6K+ followers - significant influence",
+      "Knight-Hennessy Scholar",
+      "Co-founder of Schoolhouse",
+      "Very active on LinkedIn with high engagement",
+      "Focus on AI education and accessibility"
+    ]
+  },
+  {
+    "name": "John Egan",
+    "current_role": "Engineering Leader",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 85,
+    "relevance": {
+      "shared_background": [
+        "Product & growth engineering",
+        "15+ years experience"
+      ],
+      "common_interests": [
+        "Growth engineering",
+        "Product development",
+        "Technical leadership"
+      ],
+      "mutual_connections": [
+        "San Francisco tech community",
+        "Growth engineering network"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about growth-focused engineering and product development",
+      "conversation_starters": [
+        "Growth engineering best practices",
+        "Product-engineering alignment",
+        "Developer tools optimization"
+      ],
+      "value_proposition": "Interest in growth-oriented developer relations strategies",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "7.8K+ followers",
+      "Published research and patents",
+      "Strong background in growth and product",
+      "San Francisco Bay Area based",
+      "Active in ML/AI discussions"
+    ]
+  },
+  {
+    "name": "Swathi P.",
+    "current_role": "Member of Technical Staff (Manager)",
+    "department": "Engineering (Claude.ai + MCP)",
+    "tenure_years": 2,
+    "networking_score": 82,
+    "relevance": {
+      "shared_background": [
+        "Engineering leadership",
+        "Product development"
+      ],
+      "common_interests": [
+        "Claude platform",
+        "MCP development",
+        "Developer tools"
+      ],
+      "mutual_connections": [
+        "Engineering managers network",
+        "SF tech community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about MCP and developer platform work",
+      "conversation_starters": [
+        "Model Context Protocol",
+        "Developer platform architecture",
+        "API developer experience"
+      ],
+      "value_proposition": "Interest in technical aspects of developer relations",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "Direct experience with Claude.ai and MCP",
+      "Engineering management role",
+      "San Francisco based",
+      "980+ followers with technical focus"
+    ]
+  },
+  {
+    "name": "Akila S.",
+    "current_role": "Security/Trust Lead",
+    "department": "Security & Trust",
+    "tenure_years": 1,
+    "networking_score": 78,
+    "relevance": {
+      "shared_background": [
+        "Security leadership",
+        "Trust & safety"
+      ],
+      "common_interests": [
+        "AI safety",
+        "Developer security",
+        "Platform trust"
+      ],
+      "mutual_connections": [
+        "Security professionals network",
+        "SF Bay Area tech"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about developer security and platform trust",
+      "conversation_starters": [
+        "AI safety for developers",
+        "Platform security best practices",
+        "Trust in developer tools"
+      ],
+      "value_proposition": "Interest in security aspects of developer relations",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "Previously at Notion, Lyft",
+      "2.5K+ followers",
+      "Strong security/privacy background",
+      "San Francisco Bay Area based"
+    ]
+  },
+  {
+    "name": "Faisal Nasim",
+    "current_role": "Software Engineer",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 75,
+    "relevance": {
+      "shared_background": [
+        "15+ years software development",
+        "Building software"
+      ],
+      "common_interests": [
+        "Software engineering",
+        "Developer tools",
+        "Technical architecture"
+      ],
+      "mutual_connections": [
+        "SF Bay Area engineering community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about software engineering and developer experience",
+      "conversation_starters": [
+        "Developer experience optimization",
+        "Engineering best practices",
+        "API design"
+      ],
+      "value_proposition": "Shared focus on improving developer workflows",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "1.9K+ followers",
+      "15+ years building software",
+      "San Francisco Bay Area",
+      "Technical focus with practical experience"
+    ]
+  },
+  {
+    "name": "Emily Johnston",
+    "current_role": "Member of Technical Staff",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 72,
+    "relevance": {
+      "shared_background": [
+        "Engineering leadership",
+        "University of Waterloo"
+      ],
+      "common_interests": [
+        "Technical leadership",
+        "Engineering excellence"
+      ],
+      "mutual_connections": [
+        "University of Waterloo alumni",
+        "Engineering leaders"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about engineering leadership and technical excellence",
+      "conversation_starters": [
+        "Engineering culture",
+        "Technical decision making",
+        "Developer productivity"
+      ],
+      "value_proposition": "Interest in technical aspects of developer advocacy",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "University of Waterloo background",
+      "1.3K+ followers",
+      "Engineering leadership role",
+      "San Francisco based"
+    ]
+  },
+  {
+    "name": "Tom Brown",
+    "current_role": "Research Scientist",
+    "department": "Research",
+    "tenure_years": 3,
+    "networking_score": 70,
+    "relevance": {
+      "shared_background": [
+        "MIT background",
+        "AI/ML research"
+      ],
+      "common_interests": [
+        "AI research",
+        "Developer tools",
+        "Technical innovation"
+      ],
+      "mutual_connections": [
+        "MIT alumni network",
+        "AI research community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about AI research and developer applications",
+      "conversation_starters": [
+        "AI research translation to developer tools",
+        "Technical innovation",
+        "Research-to-product pipeline"
+      ],
+      "value_proposition": "Interest in bridging research and developer experience",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "MIT background",
+      "3.7K+ followers",
+      "Long tenure at Anthropic",
+      "Strong research credentials",
+      "San Francisco based"
+    ]
+  },
+  {
+    "name": "Evan Cox",
+    "current_role": "Technical Staff",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 68,
+    "relevance": {
+      "shared_background": [
+        "Technical background",
+        "Product development"
+      ],
+      "common_interests": [
+        "Technical development",
+        "Product engineering"
+      ],
+      "mutual_connections": [
+        "California tech community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about technical product development",
+      "conversation_starters": [
+        "Technical product decisions",
+        "Engineering-product collaboration",
+        "Developer-focused features"
+      ],
+      "value_proposition": "Interest in technical product aspects of developer relations",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "2K+ followers",
+      "California based",
+      "Technical focus",
+      "Product development experience"
+    ]
+  },
+  {
+    "name": "Vu Bui",
+    "current_role": "Engineering/Product",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 65,
+    "relevance": {
+      "shared_background": [
+        "UC Berkeley background",
+        "Engineering"
+      ],
+      "common_interests": [
+        "Product engineering",
+        "Technical development"
+      ],
+      "mutual_connections": [
+        "UC Berkeley alumni",
+        "SF tech community"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about UC Berkeley connection and product engineering",
+      "conversation_starters": [
+        "Product engineering best practices",
+        "UC Berkeley tech network",
+        "Developer-focused products"
+      ],
+      "value_proposition": "Shared Berkeley background and product focus",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "UC Berkeley alumni",
+      "3.1K+ followers",
+      "San Francisco based",
+      "Product engineering focus"
+    ]
+  },
+  {
+    "name": "Nikhil Saxena",
+    "current_role": "Technical Role",
+    "department": "Engineering/Product",
+    "tenure_years": 1,
+    "networking_score": 62,
+    "relevance": {
+      "shared_background": [
+        "Duke University",
+        "Technical background"
+      ],
+      "common_interests": [
+        "Technical development",
+        "Product innovation"
+      ],
+      "mutual_connections": [
+        "Duke alumni network",
+        "East Coast to West Coast tech"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about Duke connection and technical innovation",
+      "conversation_starters": [
+        "Technical innovation at Anthropic",
+        "Duke tech network",
+        "Cross-coast tech experience"
+      ],
+      "value_proposition": "Shared Duke background and technical interests",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "Duke University background",
+      "3.7K+ followers",
+      "New York based (shows remote flexibility)",
+      "Technical focus"
+    ]
+  },
+  {
+    "name": "Suruchi Shah",
+    "current_role": "Engineering/Technical",
+    "department": "Engineering",
+    "tenure_years": 1,
+    "networking_score": 60,
+    "relevance": {
+      "shared_background": [
+        "Carnegie Mellon",
+        "Technical background"
+      ],
+      "common_interests": [
+        "Technical engineering",
+        "Product development"
+      ],
+      "mutual_connections": [
+        "CMU alumni network",
+        "SF Bay Area tech"
+      ]
+    },
+    "connection_strategy": {
+      "approach": "LinkedIn message about CMU connection and technical excellence",
+      "conversation_starters": [
+        "CMU tech network",
+        "Technical engineering at Anthropic",
+        "Developer tools development"
+      ],
+      "value_proposition": "Shared CMU background and technical focus",
+      "best_channel": "LinkedIn"
+    },
+    "profile_highlights": [
+      "Carnegie Mellon background",
+      "1.5K+ followers",
+      "San Francisco Bay Area",
+      "Technical engineering focus"
+    ]
+  }
+]

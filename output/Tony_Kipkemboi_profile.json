@@ -1,0 +1,214 @@
+{
+  "profile_summary": {
+    "name": "Tony Kipkemboi",
+    "current_role": "Senior Developer Advocate at CrewAI",
+    "location": "Washington DC-Baltimore Area, United States",
+    "industry": "Artificial Intelligence / Developer Relations"
+  },
+  "platforms": {
+    "github": {
+      "username": "tonykipkemboi",
+      "followers": 372,
+      "following": 4,
+      "repositories": 134,
+      "bio": "Senior Developer Advocate 🥑 at @crewAIInc",
+      "achievements": [
+        "Starstruck x2",
+        "Pair Extraordinaire",
+        "Public Sponsor",
+        "Quickdraw",
+        "YOLO",
+        "Pull Shark x2"
+      ],
+      "notable_projects": [
+        {
+          "name": "crewai-gmail-automation",
+          "stars": 154,
+          "description": "Multi-agent system that automates Gmail inbox management"
+        },
+        {
+          "name": "resume-optimization-crew",
+          "stars": 124,
+          "description": "AI-powered resume optimization using CrewAI"
+        },
+        {
+          "name": "ollama_pdf_rag",
+          "stars": 437,
+          "description": "A demo Jupyter Notebook showcasing a simple local RAG pipeline to chat with PDFs"
+        },
+        {
+          "name": "research-paper-to-podcast",
+          "stars": 54,
+          "description": "Automated system that transforms research papers into podcast conversations"
+        }
+      ]
+    },
+    "linkedin": {
+      "profile_id": "tonykipkemboi",
+      "followers": 9045,
+      "connections": "500+",
+      "about": "AI agents are the next wave of software and I'm helping builders and businesses create…",
+      "current_company": "crewAI",
+      "certifications": [
+        {
+          "title": "Confluent Fundamentals Accreditation",
+          "issuer": "Confluent",
+          "date": "Oct 2023"
+        },
+        {
+          "title": "Bloomberg Market Concepts",
+          "issuer": "Bloomberg LP",
+          "date": "Sep 2021"
+        },
+        {
+          "title": "Python",
+          "issuer": "HackerRank",
+          "date": "Sep 2020"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Swahili/Kiswahili",
+          "proficiency": "Native or bilingual"
+        },
+        {
+          "language": "Kalenjin",
+          "proficiency": "Native or bilingual"
+        }
+      ]
+    },
+    "x": {
+      "handle": "@tonykipkemboi",
+      "followers": 5040,
+      "following": 1697,
+      "posts": "3,276 posts",
+      "bio": "building ai agents @crewAIInc // prev. @streamlit (acq. by @SnowflakeDB), @Bloomberg",
+      "joined": "April 2017",
+      "location": "Washington DC-Baltimore area"
+    }
+  },
+  "professional_background": [
+    {
+      "role": "Senior Developer Advocate",
+      "company": "CrewAI",
+      "period": "2024 - Present",
+      "description": "Helping developers build effective AI agents and multi-agent systems"
+    },
+    {
+      "role": "Developer Advocate",
+      "company": "Streamlit (Snowflake)",
+      "period": "2022 - 2024",
+      "description": "Developer Relations Associate working on Streamlit platform"
+    },
+    {
+      "role": "Data Engineer",
+      "company": "Booz Allen Hamilton",
+      "period": "March 2022 - November 2022",
+      "location": "Arlington, VA"
+    },
+    {
+      "role": "Enterprise Data Analyst",
+      "company": "Bloomberg L.P.",
+      "period": "Previous role",
+      "description": "Data analysis and financial technology"
+    },
+    {
+      "role": "Data Engineering Intern",
+      "company": "Merck",
+      "period": "Previous internship"
+    },
+    {
+      "role": "Soldier & Genomic Research Assistant",
+      "company": "U.S. Army Medical Research Institute of Infectious Diseases",
+      "period": "Military service",
+      "description": "Military service with research focus"
+    }
+  ],
+  "skills_expertise": [
+    "AI Agents and Multi-Agent Systems",
+    "Python Programming",
+    "Data Engineering",
+    "Developer Relations",
+    "Streamlit",
+    "CrewAI Framework",
+    "RAG (Retrieval Augmented Generation)",
+    "LangChain",
+    "Ollama",
+    "Machine Learning",
+    "Content Creation (YouTube, Technical Writing)",
+    "Public Speaking and Conference Presentations",
+    "Open Source Development",
+    "Technical Documentation"
+  ],
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "program": "Master of Computer and Information Technology (MCIT) - Online",
+      "status": "Part-time (currently on Leave of Absence) - Dropped out",
+      "courses": [
+        "Data Structures and Algorithms (CIT 594)",
+        "Introduction to Software Development (CIT 591)"
+      ]
+    },
+    {
+      "institution": "George Washington University",
+      "field": "Medical Laboratory Science",
+      "period": "Previous education"
+    }
+  ],
+  "interests_activities": [
+    {
+      "category": "Professional Organizations",
+      "items": [
+        "Black in AI (Member since Dec 2020)",
+        "NSBE (Member since Aug 2020)",
+        "The National Society of Leadership and Success (Inducted Member since Mar 2019)"
+      ]
+    },
+    {
+      "category": "Volunteer Work",
+      "items": [
+        "Consumer Reviewer | Rare Cancer Research Program (RCRP) - U.S. Department of Defense (Nov 2019 - Apr 2021)"
+      ]
+    },
+    {
+      "category": "Content Creation",
+      "items": [
+        "YouTube Channel: @tonykipkemboi with educational AI/ML content",
+        "Popular video: 'Chat with PDFs using local LLMs' (140K+ views)",
+        "Technical blog posts on AI agents and data engineering"
+      ]
+    },
+    {
+      "category": "Speaking Engagements",
+      "items": [
+        "PyCon US",
+        "ODSC (Open Data Science Conference)",
+        "Harvard University",
+        "Various AI and data engineering conferences"
+      ]
+    }
+  ],
+  "networking_insights": {
+    "geographic_focus": "Washington DC-Baltimore Area, United States",
+    "industry_expertise": "AI/ML, Developer Relations, Data Engineering",
+    "communication_style": "Technical educator and thought leader, active content creator",
+    "professional_interests": [
+      "AI Agents and Multi-Agent Systems",
+      "Open Source Development",
+      "Developer Education",
+      "Military-to-Tech Career Transitions",
+      "Startup Ecosystem",
+      "Technical Content Creation"
+    ],
+    "networking_strength": "Strong online presence across multiple platforms with significant following",
+    "contact_preferences": "Professional email: iamtonykipkemboi@gmail.com",
+    "best_contact_approach": "LinkedIn professional outreach or X engagement around AI/ML topics",
+    "career_transition_experience": "Military to tech transition, data engineering to developer relations"
+  },
+  "data_quality": {
+    "completeness": "High - comprehensive data available across all three platforms",
+    "last_updated": "January 2025",
+    "notes": "Profile shows consistent professional branding across platforms. Strong technical background with military service. Currently focused on AI agents and developer education. Active content creator with significant social media following. Career progression shows movement from data engineering to developer relations in AI space."
+  }
+}

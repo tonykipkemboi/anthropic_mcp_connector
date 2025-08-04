@@ -7,6 +7,8 @@ This demo showcases Claude's advanced capabilities by building an intelligent ne
 - **Analyzes** career compatibility using Claude's deep reasoning capabilities
 - **Generates** personalized networking strategies and outreach messages
 
+> NOTE: All the data being collected using the MCP server is public data that anyone has access to.
+
 ### System Architecture
 
 This is the fine-grained view of how this demo is setup and works.
@@ -262,10 +264,18 @@ This demo illustrates:
    - Breaking complex tasks into specialized sub-prompts
 
 ### Development Assistance
+
+Here's an overview of what I used Claude for help in building this demo:
 - Claude helped optimize error handling patterns
 - Provided best practices for prompt structure
 - Suggested architectural improvements
 - Reviewed code
+
+I specifically created a subagent in the beginning using Claude code that was an expert of Claude API docs to help with troubleshooting errors.
+I also asked Claude to log all my prompts and interactions in this [file](conversation_log.md) so I don't have to remember what I prompted and also for traceability.
+I realized this could be even more nuanced down to timestamps for each and the outputs it generated in response to my prompts.
+Feel free to inspect the conversation logs to see how I built it from the first prompt to the last one. The goal was to use Claude as a collaborator. 
+I come with an idea and start working on it and Claude helps me accelerate my workflow and also quality.
 
 ## Future Improvements
 
@@ -295,6 +305,8 @@ Given more time, I would add:
    - User consent workflows
    - GDPR compliance features
 
+There's also an option to expand this to other use cases but a UI would be nice for devs to spin it up easily and even put it in prod as a template.
+
 ## Example Output
 
 The system generates comprehensive reports including:
@@ -313,10 +325,6 @@ This demo is meant to inspire and educate. Feel free to:
 - Submit PRs with improvements
 - Share your networking success stories
 - Suggest new data sources or analysis features
-
-## License
-
-MIT License - Use this as a foundation for your own innovations!
 
 ---
 

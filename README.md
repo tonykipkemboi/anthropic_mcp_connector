@@ -304,7 +304,7 @@ The system generates comprehensive reports including:
 - Tactical networking timeline
 - Success metrics and tracking
 
-See a full output example here in root directory -> [networking_analysis_20250803_132612.md](anthropic_mcp_connector/networking_analysis_20250803_132612.md)
+See a full output example here in root directory -> [networking_analysis_20250803_132612.md](networking_analysis_20250803_132612.md)
 
 ## Contributing
 
